@@ -9,7 +9,7 @@ pipeline {
         }
         stage('Compile and package') {
             steps {
-               sh 'mvn tomcat7:deploy'    
+               sh 'mvn install'    
             }
         }    
     }
