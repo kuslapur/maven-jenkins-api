@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>in.javahome</groupId>
-  <artifactId>friapp</artifactId>
+  <artifactId>friapp-x</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>war</packaging>
 
